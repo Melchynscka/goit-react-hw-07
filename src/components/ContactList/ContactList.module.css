@@ -1,0 +1,13 @@
+.contactsList {
+  max-width: 100%;
+  display: flex;
+  gap: 18px;
+  flex-wrap: wrap;
+}
+.contactListItem {
+  width: 380px;
+  padding: 12px;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: aliceblue;
+}
